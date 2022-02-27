@@ -7,6 +7,10 @@ Hey Hi 👋🏻, I am learning Material-UI and Material-Icons from different res
 - npm install @material-ui/core @material-ui/icons
 -
 
+# Projects
+
+1. [Tour display website](#) | [Reference](https://www.youtube.com/watch?v=o1chMISeTC0&t=822s)
+
 # Reference
 
 1. [Javascript Mastery MaterialUI course](https://www.youtube.com/watch?v=Xoz31I1FuiY)

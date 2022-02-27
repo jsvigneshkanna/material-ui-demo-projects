@@ -6,8 +6,8 @@ const TourCard = ({ name, rating, price, image }) => {
   console.log({ image });
   return (
     <Grid item xs={12} sm={6} md={3}>
-      <Paper elevation={12}>
-        <img src={image} alt="place image" />
+      <Paper elevation={12} className="tour-card">
+        <img src={image} alt="place image" className="place-image" />
       </Paper>
     </Grid>
   );

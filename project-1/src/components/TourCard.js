@@ -28,7 +28,7 @@ const TourCard = ({ name, rating, price, image }) => {
           </Box>
           <Box sx={{ display: "flex" }} paddingY={1}>
             <SellIcon fontSize="small" sx={{ color: "rebeccapurple", marginRight: "10px" }} />
-            <Typography variant="body1" variant="p">
+            <Typography variant="body1" component="p">
               Rs. {price}
             </Typography>
           </Box>
